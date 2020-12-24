@@ -1,0 +1,7 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: intsSize"
+"com.clooker.SetsBenchmark.hashSet_add","avgt",1,20,0.003256,0.000376,"ms/op",100
+"com.clooker.SetsBenchmark.hashSet_add","avgt",1,20,0.045042,0.010392,"ms/op",1000
+"com.clooker.SetsBenchmark.hashSet_add","avgt",1,20,0.631433,0.095480,"ms/op",10000
+"com.clooker.SetsBenchmark.unifiedSet_add","avgt",1,20,0.003474,0.000498,"ms/op",100
+"com.clooker.SetsBenchmark.unifiedSet_add","avgt",1,20,0.039439,0.006529,"ms/op",1000
+"com.clooker.SetsBenchmark.unifiedSet_add","avgt",1,20,0.609656,0.134781,"ms/op",10000
